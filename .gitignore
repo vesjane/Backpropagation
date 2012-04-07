@@ -1,0 +1,8 @@
+target/
+mongodb/
+.settings/
+src/main/webapp/WEB-INF/glassfish-web.xml
+.classpath
+.project
+*.nblh~
+*.sql~
